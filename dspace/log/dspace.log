@@ -1,0 +1,2 @@
+2022-07-06 01:15:00,523 INFO  unknown unknown org.dspace.app.sitemap.GenerateSitemaps @ anonymous::write_sitemap:type=html,num_files=0,communities=0,collections=0,items=0
+2022-07-06 01:15:00,529 INFO  unknown unknown org.dspace.app.sitemap.GenerateSitemaps @ anonymous::write_sitemap:type=html,num_files=0,communities=0,collections=0,items=0
